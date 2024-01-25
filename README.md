@@ -21,7 +21,7 @@ Pay attention to the requirements.txt file. Some tutorials miss this! List the l
 
 ## Final Step - Tar and Upload:
 
-Prepare a compressed file (model.tar.gz) with this structure: \
+Prepare a compressed file (model.tar.gz) with this structure:
 
 model.tar.gz \
 ├─ code/ \
