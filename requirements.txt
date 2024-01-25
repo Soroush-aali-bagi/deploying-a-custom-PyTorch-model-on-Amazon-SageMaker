@@ -1,0 +1,5 @@
+pillow
+torch==2.1.0
+boto3==1.33.6
+tifffile==2023.9.26
+awscli
