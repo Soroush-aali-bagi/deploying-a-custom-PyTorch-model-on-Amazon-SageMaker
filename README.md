@@ -11,9 +11,9 @@ Start by reading and following these three links. They are sufficient to grasp w
 &emsp;        1. [Hosting YOLOv8 on Amazon SageMaker Endpoints](https://aws.amazon.com/blogs/machine-learning/hosting-yolov8-pytorch-model-on-amazon-sagemaker-endpoints/) \
 &emsp;        2. [Getting Started with PyTorch on SageMaker](https://sagemaker-examples.readthedocs.io/en/latest/frameworks/pytorch/get_started_mnist_deploy.html) \
 &emsp;        3. [Deploy a Custom ML Model as a SageMaker Endpoint](https://towardsdatascience.com/deploy-a-custom-ml-model-as-a-sagemaker-endpoint-6d2540226428) \
-Carefully read them. 
-Explore my simple model and inference code. Feel free to adapt it. \
-Note: My model.pt is empty; it's a secret! 🤫
+
+After carefully reading them, now it's time to **explore my simple example to deploy your model, and do not forget the inference code!** Feel free to adapt them. \
+Note: My model.pt is an empty file; it's a secret! 🤫
 
 ## Library Requirements:
 
