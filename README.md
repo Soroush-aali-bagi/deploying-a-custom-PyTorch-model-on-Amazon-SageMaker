@@ -2,7 +2,7 @@
 
 Hello there! 👋
 
-If you've ever struggled with deploying a PyTorch model on Amazon SageMaker, you're not alone. I faced challenges, fought server mysteries, and scoured AWS for working examples. Recently, I tried deploying a custom PyTorch model on Amazon SageMaker but encountered challenges. Despite following AWS examples, I faced server issues I couldn't comprehend. I struggled to find working code for a simple start and had no one to ask for help. :( \
+If you've ever struggled with deploying a PyTorch model on Amazon SageMaker, you're not alone. I faced challenges, fought server mysteries, and scoured AWS for working examples. Recently, I tried deploying a **custom** PyTorch model on Amazon SageMaker but encountered challenges. Despite following AWS examples, I faced server issues I couldn't comprehend. I struggled to find working code for a simple start and had no one to ask for help. :( \
 But fear not, for I conquered, and now I share my journey with you. I hope this helps beginners aiming to do the same, reducing time and effort.
 
 ## Quick Start:
